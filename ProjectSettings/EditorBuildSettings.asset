@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SelPersonagem.unity
+    guid: 793c32567f0d3c84f9ebde30594bc140
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 7d1cba19db1cdbd44920e43663cc51c8
+  - enabled: 1
+    path: Assets/Scenes/Configuracao.unity
+    guid: cc4e916aa5ad44a408407ba69a477d9b
+  - enabled: 1
+    path: Assets/Scenes/Sonic.unity
+    guid: c81dd1103bba3f049b886fbe2224e393
+  - enabled: 1
+    path: Assets/Scenes/Sanji.unity
+    guid: a58c4f23da736934fa0e779fd9139366
+  - enabled: 1
+    path: Assets/Scenes/Ghost.unity
+    guid: 41f3f3555cebdeb4da8f21e07b7b92e8
+  - enabled: 1
+    path: Assets/Scenes/Dungen/Dungens.unity
+    guid: 08a6f7aa4101bc741ae7be293355bd48
+  - enabled: 1
+    path: Assets/Scenes/Dungen/DungenEnter.unity
+    guid: 714706c81fbb97d44b8debce48bcc032
+  - enabled: 1
+    path: Assets/Scenes/Dungen/DungenBattle.unity
+    guid: 66bf33e113b0892419f7b87b7f6c4e87
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
