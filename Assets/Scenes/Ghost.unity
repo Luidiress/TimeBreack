@@ -399,7 +399,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Star
+  m_text: Voltar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5410ec4814adce840b41fd10c9b4f5b2, type: 2}
   m_sharedMaterial: {fileID: -7367510493089716523, guid: 5410ec4814adce840b41fd10c9b4f5b2, type: 2}
@@ -564,7 +564,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 803117343}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
-        m_MethodName: Dungens
+        m_MethodName: SelPersonagem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ahh!!! ui que susto, vai ter que ser voce mesmo, voce pode me ajudar ?
+  m_text: Eu entendo que voce nao possa me ajudar. (o Ghost nao estah disponivel)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5410ec4814adce840b41fd10c9b4f5b2, type: 2}
   m_sharedMaterial: {fileID: -7367510493089716523, guid: 5410ec4814adce840b41fd10c9b4f5b2, type: 2}
@@ -1127,8 +1127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texto: {fileID: 1446966140}
-  mensagemCompleta: Ahh!!! ui que susto, vai ter que ser voce mesmo, voce pode me
-    ajudar ?
+  mensagemCompleta: Eu entendo que voce nao possa me ajudar. (o Ghost nao estah disponivel)
   velocidadeDigitacao: 0.05
   velocidadeTexto: {fileID: 0}
 --- !u!1 &1957710937

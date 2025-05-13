@@ -62,9 +62,9 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene("SelPersonagem");
     }
 
-    public void Dungens()
+    public void Dungen()
     {
-        SceneManager.LoadScene("Dungens");
+        SceneManager.LoadScene("Dungen");
     }
 
     public void DungenEnter()
@@ -75,5 +75,26 @@ public class Menu : MonoBehaviour
     public void DungenBattle()
     {
         SceneManager.LoadScene("DungenBattle");
+    }
+
+    public void ProximaFase()
+    {
+        SceneManager.LoadScene("ProximaFase");
+    }
+
+    public void Bonus()
+    {
+        SceneManager.LoadScene("Bonus");
+    }
+
+    public void Bonus2()
+    {
+        SceneManager.LoadScene("Bonus2");
+
+    }
+
+    public void BonusFinal()
+    {
+        SceneManager.LoadScene("BonusFinal");
     }
 }

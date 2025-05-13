@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Ghost.unity
     guid: 41f3f3555cebdeb4da8f21e07b7b92e8
   - enabled: 1
-    path: Assets/Scenes/Dungen/Dungens.unity
+    path: Assets/Scenes/Dungen/Dungen.unity
     guid: 08a6f7aa4101bc741ae7be293355bd48
   - enabled: 1
     path: Assets/Scenes/Dungen/DungenEnter.unity
@@ -35,6 +35,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dungen/DungenBattle.unity
     guid: 66bf33e113b0892419f7b87b7f6c4e87
+  - enabled: 1
+    path: Assets/Scenes/Dungen/Bonus.unity
+    guid: 5767e77fa8b2670488ba97d505c501c2
+  - enabled: 1
+    path: Assets/Scenes/Dungen/ProximaFase.unity
+    guid: 7be5aa2f4b9dc1241b6ef6937552525b
+  - enabled: 1
+    path: Assets/Scenes/Dungen/Bonus2.unity
+    guid: a25c02ff1acd583408c756350662712c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
